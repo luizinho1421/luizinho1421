@@ -1,4 +1,4 @@
- ![сднёмрожденияGIF](https://github.com/user-attachments/assets/4aa35cc3-fb34-407b-b87a-6fb12eb16ec0)
+<img src="https://github.com/user-attachments/assets/4aa35cc3-fb34-407b-b87a-6fb12eb16ec0" width="100px" />
 
 # 👨‍💻 LuizinhoSouzaK
 
